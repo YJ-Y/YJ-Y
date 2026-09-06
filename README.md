@@ -1,10 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=cecfde&height=120&text=YeongJu's%20GitHub&animation=&fontColor=847cfe&fontSize=40" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hello World!  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 안녕하세요, 유영주입니다.</li><li> 백엔드 개발자를 꿈꾸며 열심히 공부하고 있습니다.</li><li> 성장하기 위해서 항상 노력 중입니다! </div> 
-    </div>
+   
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
